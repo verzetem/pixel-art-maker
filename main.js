@@ -7,7 +7,7 @@ const colors = document.querySelector(".colors")
 let pixels = document.getElementsByClassName("pixels")
 
 // pixel grid
-for (let i = 0; i < 484; i++) {
+for (let i = 0; i < 500; i++) {
 	let div = document.createElement("div")
 	gridArea.appendChild(row)
 	row.appendChild(div)
